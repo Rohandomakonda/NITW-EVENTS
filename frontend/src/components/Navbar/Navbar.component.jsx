@@ -132,7 +132,6 @@ function Navbar() {
       </div>
       <ul className="navbar-links">
         <li><Link to="/">Home</Link></li>
-        <li><Link to="/about">About</Link></li>
         {token && <li><Link to="/viewevents">View Events</Link></li>}
         {token && <li><Link to="/viewRecruitments">View Recruitments</Link></li>}
 
