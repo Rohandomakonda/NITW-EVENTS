@@ -4,7 +4,7 @@ import { Github, Linkedin, Mail, MapPin, GraduationCap, Code2, ExternalLink } fr
 function App() {
   const teamMembers = [
     {
-      name: "Sriman Satvik Konda",
+      name: "Sriman Satvik",
       role: "Full Stack Developer",
       image: " ",
       description: "Passionate software engineer with expertise in React, Spring boot. Specialized in building scalable web applications and microservices architecture. Always eager to learn new technologies and contribute to open-source projects.",
@@ -14,7 +14,17 @@ function App() {
       skills: ["React", "Spring boot", "Java", "TailwindCSS","C++", "SQL"]
     },
     {
-      name: "Dustakar Abhiraj",
+      name: "Venkat",
+      role: "Full Stack Developer",
+      image: "",
+      description: "Enthusiastic software developer with a strong foundation in full-stack development. Proficient in building scalable web applications using React and Spring boot Microservices. Passionate about open-source contributions and continuous learning.",
+      github: "https://github.com/DAbhiraj",
+      linkedin: "https://linkedin.com/in/Dabhiraj",
+      email: "da23csb0a32@student.nitw.ac.in",
+      skills: ["React", "Springboot", "Java", "Docker", "C++", "PostgreSQL"]
+    },
+    {
+      name: "Jashwanth",
       role: "Full Stack Developer",
       image: "",
       description: "Enthusiastic software developer with a strong foundation in full-stack development. Proficient in building scalable web applications using React and Spring boot Microservices. Passionate about open-source contributions and continuous learning.",
