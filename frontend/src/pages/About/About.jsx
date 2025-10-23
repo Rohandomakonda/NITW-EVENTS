@@ -4,7 +4,7 @@ import { Github, Linkedin, Mail, MapPin, GraduationCap, Code2, ExternalLink } fr
 function App() {
   const teamMembers = [
     {
-      name: "Rohan Domakonda",
+      name: "Sriman Satvik Konda",
       role: "Full Stack Developer",
       image: " ",
       description: "Passionate software engineer with expertise in React, Spring boot. Specialized in building scalable web applications and microservices architecture. Always eager to learn new technologies and contribute to open-source projects.",
